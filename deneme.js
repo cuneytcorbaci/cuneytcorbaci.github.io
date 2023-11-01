@@ -1,0 +1,1 @@
+console.log("Amk bi JAvascripte bulaşmadığım kaldıydı");
