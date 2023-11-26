@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cüneyt
-- 👀 I’m interested in DevOps Tech
-- 🌱 I’m currently learning AWS Tech
+- 👀 I’m interested in Linux and DevOps Tech
+- 🌱 I’m currently learning AWS Tech and prepare LPIC-1
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
