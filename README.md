@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cüneyt
+- 👋 Hi, I’m Cüneyt. Welcome from Turkey..
 - 👀 I’m interested in Linux and DevOps Tech
 - 🌱 I’m currently learning AWS Tech and prepare LPIC-1
 - 💞️ I’m looking to collaborate on ...
